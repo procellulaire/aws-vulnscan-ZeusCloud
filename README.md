@@ -4,7 +4,8 @@
     <img alt="logo" src="https://user-images.githubusercontent.com/20483346/222834439-0cbf26d7-eaa6-462c-9438-e3a91a02c7d2.png" height="80">
   </picture>
   <p align="center">
-    <em>Secure your cloud.</em>
+  <em>Version de Fernando Cabal de la plateforme de sécurité ZeusCloud open source, en fran-glais et avec mes propres hacks</em> 
+    <em>Sécurisez votre cloud AWS</em>
   </p>
 </p>
 
@@ -12,25 +13,32 @@
 
 ---
 
-[![Prs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
-[![Join Slack](https://img.shields.io/badge/slack%20community-join-blue)](https://join.slack.com/t/ironleapcommunity/shared_invite/zt-1oxm8asmq-4oyM4fdqarSHMoMstGH6Lw)
-[![License](https://img.shields.io/badge/license-Apache2.0-brightgreen)](/LICENSE)
-
----
 
 </div>
 
 <!-- omit in toc -->
-## ZeusCloud is an open source cloud security platform. 
+## Version de Fernando Cabal de la plateforme de sécurité ZeusCloud open source, en fran-glais et avec mes propres hacks 
 
+Découvrez, prioriser, et corrigez vos risques dans le cloud AWS
 Discover, prioritize, and remediate your risks in the cloud. 
 
-- Build an asset inventory of your AWS accounts.
-- Discover attack paths based on public exposure, IAM, vulnerabilities, and more.
-- Prioritize findings with graphical context. 
-- Remediate findings with step by step instructions.
-- Customize security and compliance controls to fit your needs. 
-- Meet compliance standards PCI DSS, CIS, SOC 2, and more!
+- Construire un inventaire des actifs des comptes AWS.
+  Build an asset inventory of AWS accounts.
+
+- Découvrez les chemins d'attaque basés sur l'exposition publique, l'IAM, les vulnérabilités et autres.
+  Discover attack paths based on public exposure, IAM, vulnerabilities, and others.
+  
+- Hiérarchiser les résultats avec un contexte graphique.
+  Prioritize findings with graphical context.
+  
+- Corrigez les résultats avec des instructions étape par étape.
+  Remediate findings with step by step instructions
+  
+- Personnalisez les contrôles de sécurité et de conformité en fonction de vos besoins.
+  Customize security and compliance controls to fit your needs.
+  
+- Respectez les normes de conformité PCI DSS, CIS, SOC 2 et plus encore !
+  Meet compliance standards PCI DSS, CIS, SOC 2, and more!
 
 <!-- omit in toc -->
 ## Table of Contents
@@ -40,8 +48,8 @@ Discover, prioritize, and remediate your risks in the cloud.
 - [Features](#features)
 - [Why ZeusCloud?](#why-zeuscloud)
 - [Future Roadmap](#future-roadmap)
-- [Contributing](#contributing)
-- [Development](#development)
+- [Contributions](#contributions)
+- [Developpement](#developpement)
 - [Security](#security)
 - [Open source vs. paid](#open-source-vs-paid)
 
